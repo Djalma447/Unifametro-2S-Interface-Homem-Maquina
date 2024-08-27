@@ -3,7 +3,7 @@ Aulas de Interface Homem-Máquina (Unifametro/DevsFree)
 
 Conteudos: 
 
-|FACULDADE | DEVSFREE ACADEMY|
+| DEVSFREE ACADEMY| FACULDADE|
 |----------|-----------------|
 |Princípios de Design de Interface|Introdução à IHC|
 |Psicologia Cognitiva e Percepção|Conceitos básicos de IHC|
